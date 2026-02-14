@@ -10,7 +10,7 @@ const moveCount = ref(0)
 const messages = [
   "I have a special surprise for you...",
   "Wait, did you misclick? 🥺",
-  "Think about the tacos we could have! 🌮",
+  "Think about all the memories we'll make together! ✨",
   "I'll be the happiest person alive, I promise!",
   "Is that your final answer? 💔",
   "You're breaking my heart! Just click Yes!",
