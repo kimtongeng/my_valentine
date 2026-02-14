@@ -32,6 +32,13 @@ const moveButton = () => {
     left: `${x}px` 
   }
 }
+watch(isAccepted, (newVal) => {
+  if (newVal) {
+    useHead({
+      title: 'SHE SAID YES! 🎉'
+    })
+  }
+})
 </script>
 
 <template>
