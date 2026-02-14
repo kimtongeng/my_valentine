@@ -102,7 +102,7 @@ watch(isAccepted, (newVal) => {
         </p>
         <p class="text-xl text-pink-700 font-light">
           You’ve made me the luckiest person in the world. <br>
-          I can't wait to spend this day with you! I love you so much! ❤️
+          I can't wait to spend this day with you! I love you so much! Baby 😘❤️
         </p>
       </div>
 
